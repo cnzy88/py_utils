@@ -4,7 +4,6 @@
 import datetime
 
 
-
 class IdCardHandle(object):
 
     """
